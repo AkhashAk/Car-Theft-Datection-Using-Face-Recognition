@@ -41,11 +41,11 @@ The system can be used to reduce the increased vehicle theft and allows the owne
 
 <br/>
 
-## MODULES
+## Modules
 
 <br/>
 
-> User Module
+### User Module
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In user module, there are mainly five sections,
 * New User
@@ -103,10 +103,8 @@ The system can be used to reduce the increased vehicle theft and allows the owne
 ---
 <br/>
 
-> Face Recognition Module
+### Face Recognition Module
 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In Face recognition module,<br/>
 
 * At first the Histogram of Oriented Gradients algorithm will be executed and detect the driver’s face.
 
@@ -125,7 +123,7 @@ The system can be used to reduce the increased vehicle theft and allows the owne
 
         <br/>
 
-> Telegram Module
+### Telegram Module
 &nbsp;
 * At first telegram Bot has been created to send information to the user’s telegram account. The Bot can be created with help of BOTFATHER which is an in-built Telegram bot for creating the bot.
 
@@ -167,7 +165,7 @@ The system can be used to reduce the increased vehicle theft and allows the owne
         Alert! Car is not SAFE!!!
 
 &nbsp;
-> GPS Module
+### GPS Module
 &nbsp;
 * At first, location can be get by mobile GPS which will stream the NMEA data (GPSD) to the raspberry Pi’s IP address and port through Wi-Fi.
 * Then at other end, Raspberry Pi will receive the NMEA data streaming by the mobile phone as a Datagram using UDP protocol.
