@@ -55,8 +55,8 @@ The system can be used to reduce the increased vehicle theft and allows the owne
 * Change Password
 <br/>
 1) New User<br/>
-<br/>
-    * Username Textfield -
+
+* Username Textfield -
     <br/>
     In username textfeild, the user will enter his/her
     name. This username will be the file name used to store his/her image.
@@ -67,16 +67,15 @@ The system can be used to reduce the increased vehicle theft and allows the owne
     * Get Started Button -
     <br/>After hitting Get Started button, the application
     will open up the camera to capture the user’s face.<br/>
-
         * Case 1: At first, the algorithm will look for multiple faces. If
         the current frame contains more than one face, then the system
         will not capture and store the current user’s face.
-        
-       
+
         * Case 2: Also, the algorithm will detect and retrieve the face
         encodings of the current user’s face and compare it with
         already existing user’s face encodings. If it matches, the
         process will not be carried further.
+        
         * Case 3: Only if the above two conditions satisfy, the system
         will store the image of the current user with username as the
         file name.
