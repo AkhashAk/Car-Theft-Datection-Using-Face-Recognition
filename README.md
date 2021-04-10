@@ -83,13 +83,15 @@ The system can be used to reduce the increased vehicle theft and allows the owne
 2) Existing User
 
     * Existing user Button -
-    <br/>
+    
         If the user already presents in the database,
         he/she can simply click on the Existing User button to get into the
         Dashboard.
-    * Dashboard -<br/>
-    In Dashboard layout, user can be able to view or delete
-    the already existing users in the system.
+    
+    * Dashboard -
+    
+        In Dashboard layout, user can be able to view or delete
+        the already existing users in the system.
 
         * Back - Back button is used to return to the first layout which is
         the startup page by leaving Dashboard layout.
