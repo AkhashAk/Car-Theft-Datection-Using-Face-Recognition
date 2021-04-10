@@ -98,7 +98,7 @@ The system can be used to reduce the increased vehicle theft and allows the owne
     database with the newly added users.
     * Delete - Delete button is used to remove the selected user from
     the system permanently.
----
+
 <br/>
 
 ### Face Recognition Module
