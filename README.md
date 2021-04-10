@@ -67,6 +67,7 @@ The system can be used to reduce the increased vehicle theft and allows the owne
     * Get Started Button -
     <br/>After hitting Get Started button, the application
     will open up the camera to capture the user’s face.<br/>
+    
         * Case 1: At first, the algorithm will look for multiple faces. If
         the current frame contains more than one face, then the system
         will not capture and store the current user’s face.
@@ -82,23 +83,23 @@ The system can be used to reduce the increased vehicle theft and allows the owne
 <br/>
 2) Existing User<br/>
 
-    * Existing user Button -
+* Existing user Button -
     
-        If the user already presents in the database,
-        he/she can simply click on the Existing User button to get into the
-        Dashboard.
+    If the user already presents in the database,
+    he/she can simply click on the Existing User button to get into the
+    Dashboard.
     
-    * Dashboard -
+* Dashboard -
     
-        In Dashboard layout, user can be able to view or delete
-        the already existing users in the system.
+    In Dashboard layout, user can be able to view or delete
+    the already existing users in the system.
 
-        * Back - Back button is used to return to the first layout which is
-        the startup page by leaving Dashboard layout.
-        * Refresh - Refresh button is used to dynamically update the
-        database with the newly added users.
-        * Delete - Delete button is used to remove the selected user from
-        the system permanently.
+    * Back - Back button is used to return to the first layout which is
+    the startup page by leaving Dashboard layout.
+    * Refresh - Refresh button is used to dynamically update the
+    database with the newly added users.
+    * Delete - Delete button is used to remove the selected user from
+    the system permanently.
 ---
 <br/>
 
