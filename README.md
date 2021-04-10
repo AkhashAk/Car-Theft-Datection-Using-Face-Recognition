@@ -63,7 +63,7 @@ The system can be used to reduce the increased vehicle theft and allows the owne
     At this stage, the system will check if the entered username is already
     present in the database. If yes, then it will show the message as you are
     an existing user and the process will not be carried out further.
-    <br/>
+    <br/> 
     * Get Started Button -
     <br/>After hitting Get Started button, the application
     will open up the camera to capture the user’s face.<br/>
