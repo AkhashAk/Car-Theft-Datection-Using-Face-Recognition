@@ -84,11 +84,11 @@ The system can be used to reduce the increased vehicle theft and allows the owne
 2) Existing User<br/>
 
 * Existing user Button -
-    
+    <br/>
     If the user already presents in the database,
     he/she can simply click on the Existing User button to get into the
     Dashboard.
-    
+    <br/>
 * Dashboard -
     
     In Dashboard layout, user can be able to view or delete
