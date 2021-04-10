@@ -137,14 +137,15 @@ In user module, there are mainly five sections,
 
 
 * Telegram URL has been used to send messages and images by using the user’s chat ID through bot.
+
+* Inside the telegram method, request module has been used.
+
+* The GET method is used to request the resource specified in the URL and then send the Alert message and images of a thief to the mentioned chat ID.
 &nbsp;
 #### URL Syntax –
     For sending message -https://api.telegram.org/bot[BOT_API_KEY]/sendMessage?chat_id=[chat_id]&text=[MESSAGE_TEXT]
 
     For sending image -https://api.telegram.org/bot[BOT_API_KEY]/sendPhoto?chat_id=[chat_id]&files=[filename]
-* Inside the telegram method, request module has been used.
-
-* The GET method is used to request the resource specified in the URL and then send the Alert message and images of a thief to the mentioned chat ID.
 
 #### Message Format to be sent to the user -
     ➔ If Face matched:
