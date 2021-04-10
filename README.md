@@ -79,7 +79,9 @@ The system can be used to reduce the increased vehicle theft and allows the owne
         * Case 3: Only if the above two conditions satisfy, the system
         will store the image of the current user with username as the
         file name.
-<br/><br/>
+<br/>
+
+
 2) Existing User
 
     * Existing user Button -
