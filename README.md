@@ -8,7 +8,7 @@ If the captured face is not recognized by the system, then a push notification w
 The system can be used to reduce the increased vehicle theft and allows the owner to identify the intruder. 
 
 ## Dependencies
-***
+
 > opencv-python==4.4.0.44
 
 > opencv-contrib-python==4.4.0.44
@@ -42,7 +42,7 @@ The system can be used to reduce the increased vehicle theft and allows the owne
 <br/>
 
 ## MODULES
----
+
 <br/>
 
 > User Module
