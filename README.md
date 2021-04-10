@@ -80,9 +80,7 @@ The system can be used to reduce the increased vehicle theft and allows the owne
         will store the image of the current user with username as the
         file name.
 <br/>
-
-
-2) Existing User
+2) Existing User<br/>
 
     * Existing user Button -
     
