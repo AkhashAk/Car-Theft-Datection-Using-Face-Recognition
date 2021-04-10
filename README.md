@@ -99,8 +99,6 @@ The system can be used to reduce the increased vehicle theft and allows the owne
     * Delete - Delete button is used to remove the selected user from
     the system permanently.
 
-<br/>
-
 ### Face Recognition Module
 
 * At first the Histogram of Oriented Gradients algorithm will be executed and detect the driver’s face.
@@ -117,8 +115,6 @@ The system can be used to reduce the increased vehicle theft and allows the owne
         * Encodings of the pre-trained face will be compared with the driver’s face encodings using HOG algorithm.
         * If the face encodings don’t match with pre-trained face data for more than five seconds, then the algorithm will capture the unknown driver’s image.
         * Then, the system will send an Alert message along with the five images of the driver to the user’s telegram account.
-
-        <br/>
 
 ### Telegram Module
 
@@ -149,9 +145,7 @@ The system can be used to reduce the increased vehicle theft and allows the owne
 * Inside the telegram method, request module has been used.
 
 * The GET method is used to request the resource specified in the URL and then send the Alert message and images of a thief to the mentioned chat ID.
-
-<br/>
-
+* 
 #### Message Format to be sent to the user -
     ➔ If Face matched:
         Welcome Akhash!
@@ -161,7 +155,6 @@ The system can be used to reduce the increased vehicle theft and allows the owne
     ➔ If Face not matched:
         Alert! Car is not SAFE!!!
 
-&nbsp;
 ### GPS Module
 
 * At first, location can be get by mobile GPS which will stream the NMEA data (GPSD) to the raspberry Pi’s IP address and port through Wi-Fi.
