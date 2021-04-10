@@ -75,17 +75,18 @@ The system can be used to reduce the increased vehicle theft and allows the owne
         encodings of the current user’s face and compare it with
         already existing user’s face encodings. If it matches, the
         process will not be carried further.
-        
+
         * Case 3: Only if the above two conditions satisfy, the system
         will store the image of the current user with username as the
         file name.
 <br/><br/>
 2) Existing User
+
     * Existing user Button -
     <br/>
-    If the user already presents in the database,
-    he/she can simply click on the Existing User button to get into the
-    Dashboard.
+        If the user already presents in the database,
+        he/she can simply click on the Existing User button to get into the
+        Dashboard.
     * Dashboard -<br/>
     In Dashboard layout, user can be able to view or delete
     the already existing users in the system.
