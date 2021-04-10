@@ -145,7 +145,7 @@ In user module, there are mainly five sections,
 * Inside the telegram method, request module has been used.
 
 * The GET method is used to request the resource specified in the URL and then send the Alert message and images of a thief to the mentioned chat ID.
-* 
+
 #### Message Format to be sent to the user -
     ➔ If Face matched:
         Welcome Akhash!
