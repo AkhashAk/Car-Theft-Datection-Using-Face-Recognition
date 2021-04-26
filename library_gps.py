@@ -7,9 +7,9 @@ running = True
 
 gpsd = gps(mode=WATCH_ENABLE|WATCH_NEWSTYLE)
 
-bot = Bot("YOUR_TOKEN")
+bot = Bot("BOT_TOKEN")
 
-updater = Updater("YOUR_TOKEN", use_context=True)
+updater = Updater("BOT_TOKEN", use_context=True)
 dispatcher = updater.dispatcher
 
 def test_function(update: Update, context: CallbackContext):
